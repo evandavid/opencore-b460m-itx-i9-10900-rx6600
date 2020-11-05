@@ -1,6 +1,6 @@
 # opencore-b460m-itx-i5-10400f-rx570
 
-- OpenCore 0.6.1
+- OpenCore 0.6.3
 - Motherboard: ASRock b460m itx
 - GPU: Gigabyte rx570 4GB
 - CPU: Intel i5 10400f
