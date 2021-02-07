@@ -7,5 +7,5 @@ tested in Catalina and Big Sur
 - GPU: Gigabyte rx570 4GB
 - CPU: Intel i5 10400f
 - WIFI & Bluetooth: BCM943224PCIEBT2
-- NVME: Adata SX6000
+- NVME: Adata SX8200
 - SSD: Crucial
