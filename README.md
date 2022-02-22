@@ -1,8 +1,8 @@
 # opencore-b460m-itx-i5-10400f-rx570
 
-tested in Catalina and Big Sur
+tested in Catalina, Big Sur, and Monterey
 
-- OpenCore 0.6.9
+- OpenCore 0.7.8
 - Motherboard: ASRock b460m itx
 - GPU: Gigabyte rx570 4GB
 - CPU: Intel i5 10400f
