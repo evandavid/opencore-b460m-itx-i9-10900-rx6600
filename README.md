@@ -2,6 +2,10 @@
 
 tested in Catalina, Big Sur, and Monterey
 
+Bluetooth no longer work use wifi/bluetooth card, wait for fix
+
+In the meantime, use TP-Link UB-400
+
 - OpenCore 0.7.8
 - Motherboard: ASRock b460m itx
 - GPU: Gigabyte rx570 4GB
@@ -9,3 +13,4 @@ tested in Catalina, Big Sur, and Monterey
 - WIFI & Bluetooth: BCM943224PCIEBT2
 - NVME: Adata SX8200
 - SSD: Crucial
+- Bluetooth dongle: TP-LINK UB-400
