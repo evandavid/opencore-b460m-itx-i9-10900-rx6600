@@ -2,9 +2,14 @@
 
 tested in Catalina, Big Sur, and Monterey
 
-Bluetooth no longer work use wifi/bluetooth card, wait for fix
+~~Bluetooth no longer work use wifi/bluetooth card, wait for fix~~
 
-In the meantime, use TP-Link UB-400
+
+~~In the meantime, use TP-Link UB-400~~
+
+UPDATE: **Bluetooth work**
+
+
 
 - OpenCore 0.8.1
 - Motherboard: ASRock b460m itx
@@ -13,4 +18,4 @@ In the meantime, use TP-Link UB-400
 - WIFI & Bluetooth: BCM943224PCIEBT2
 - NVME: Adata SX8200
 - SSD: Crucial
-- Bluetooth dongle: TP-LINK UB-400
+- ~~Bluetooth dongle: TP-LINK UB-400~~
