@@ -6,7 +6,7 @@ Bluetooth no longer work use wifi/bluetooth card, wait for fix
 
 In the meantime, use TP-Link UB-400
 
-- OpenCore 0.7.8
+- OpenCore 0.8.1
 - Motherboard: ASRock b460m itx
 - GPU: Gigabyte rx570 4GB
 - CPU: Intel i5 10400f
