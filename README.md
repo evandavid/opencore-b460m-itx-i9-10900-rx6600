@@ -11,8 +11,8 @@ UPDATE: **Bluetooth work**
 
 
 
-- OpenCore 0.8.1
-- Motherboard: ASRock b460m itx
+- OpenCore 0.8.5
+- Motherboard: ASRock b460m ITX
 - GPU: Gigabyte rx570 4GB
 - CPU: Intel i5 10400f
 - WIFI & Bluetooth: BCM943224PCIEBT2
