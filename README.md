@@ -1,6 +1,6 @@
 # opencore-b460m-itx-i5-10400f-rx570
 
-tested in Catalina, Big Sur, and Monterey
+tested in Catalina, Big Sur, Monterey, and Ventura
 
 ~~Bluetooth no longer work use wifi/bluetooth card, wait for fix~~
 
