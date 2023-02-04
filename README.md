@@ -1,4 +1,4 @@
-# opencore-b460m-itx-i5-10400f-rx570
+# opencore-b460m-itx-i9-10900-rx6600
 
 tested in Catalina, Big Sur, Monterey, and Ventura
 
@@ -9,12 +9,12 @@ tested in Catalina, Big Sur, Monterey, and Ventura
 
 UPDATE: **Bluetooth work**
 
+UPDATE: Dual boot windows
 
-
-- OpenCore 0.8.7
+- OpenCore 0.8.8
 - Motherboard: ASRock b460m ITX
-- GPU: Gigabyte rx570 4GB
-- CPU: Intel i5 10400f
+- GPU: Sapphire RX 6600 8GB
+- CPU: Intel i9 10900
 - WIFI & Bluetooth: BCM943224PCIEBT2
 - NVME: Adata SX8200
 - SSD: Crucial
