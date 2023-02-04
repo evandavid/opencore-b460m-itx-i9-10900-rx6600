@@ -14,6 +14,8 @@ UPDATE:
   - change CPU to i9 10900
   - change GPU to RX 6600
 
+
+Detail:
 - OpenCore 0.8.8
 - Motherboard: ASRock b460m ITX
 - GPU: Sapphire RX 6600 8GB
