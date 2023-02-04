@@ -9,7 +9,10 @@ tested in Catalina, Big Sur, Monterey, and Ventura
 
 UPDATE: **Bluetooth work**
 
-UPDATE: Dual boot windows
+UPDATE: 
+  - Dual boot windows
+  - change CPU to i9 10900
+  - change GPU to RX 6600
 
 - OpenCore 0.8.8
 - Motherboard: ASRock b460m ITX
