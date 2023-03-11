@@ -1267,7 +1267,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>&lt;EDIT ME&gt;</string>
+			<string>EDITME</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1281,9 +1281,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>&lt;EDIT ME&gt;</string>
+			<string>EDITME</string>
 			<key>SystemUUID</key>
-			<string>&lt;EDIT ME&gt;</string>
+			<string>EDITME</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
