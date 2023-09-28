@@ -1,6 +1,6 @@
 # opencore-b460m-itx-i9-10900-rx6600
 
-tested in Catalina, Big Sur, Monterey, and Ventura
+tested in Catalina, Big Sur, Monterey, Ventura and Sonoma
 
 ~~Bluetooth no longer work use wifi/bluetooth card, wait for fix~~
 
