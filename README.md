@@ -16,7 +16,7 @@ UPDATE:
 
 
 Detail:
-- OpenCore 0.9.0
+- OpenCore 0.9.5
 - Motherboard: ASRock b460m ITX
 - GPU: Sapphire RX 6600 8GB
 - CPU: Intel i9 10900
