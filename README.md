@@ -2,14 +2,10 @@
 
 tested in Catalina, Big Sur, Monterey, Ventura and Sonoma
 
-Sonoma remove legacy.kext, WiFi no longer works [explanation](https://elitemacx86.com/threads/common-problems-in-macos-sonoma-14-0.1258/)
-
-~~Bluetooth no longer work use wifi/bluetooth card, wait for fix~~
+![Screenshot 2023-10-02 at 22 23 05](https://github.com/evandavid/opencore-b460m-itx-i9-10900-rx6600/assets/1207161/8261fcfd-4d27-4860-80cf-e496175709b2)
 
 
-~~In the meantime, use TP-Link UB-400~~
-
-UPDATE: **Bluetooth work**
+SONOMA: Run OpenCore Legacy Patcher for sonoma to make WIFI work
 
 UPDATE: 
   - Dual boot windows
@@ -25,4 +21,3 @@ Detail:
 - WIFI & Bluetooth: BCM943224PCIEBT2
 - NVME: Adata SX8200
 - SSD: Crucial
-- ~~Bluetooth dongle: TP-LINK UB-400~~
