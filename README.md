@@ -11,6 +11,7 @@ UPDATE:
   - Dual boot windows
   - change CPU to i9 10900
   - change GPU to RX 6600
+  - Fix Wifi and Bluetooth issue on Sonoma (14)
 
 
 Detail:
