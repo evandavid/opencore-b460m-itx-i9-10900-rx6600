@@ -2,6 +2,8 @@
 
 tested in Catalina, Big Sur, Monterey, Ventura and Sonoma
 
+Sonoma remove legacy.kext, WiFi no longer works [explanation](https://elitemacx86.com/threads/common-problems-in-macos-sonoma-14-0.1258/)
+
 ~~Bluetooth no longer work use wifi/bluetooth card, wait for fix~~
 
 
