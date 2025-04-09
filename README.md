@@ -7,10 +7,9 @@ UPDATE:
 
 
 Detail:
-- OpenCore 1.0.0
+- OpenCore 1.0.4
 - Motherboard: ASRock b460m ITX
 - GPU: Sapphire RX 6600 8GB
 - CPU: Intel i9 10900
 - WIFI & Bluetooth: AX210
-- NVME: Adata SX8200
-- SSD: Crucial
+- NVME: WD Black SN770
